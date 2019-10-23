@@ -1,0 +1,15 @@
+crawler/
+dics/8moji.dic
+dics/9moji.dic
+dics/TOEIC.dic
+dics/mojipi.dic
+dics/over10.dic
+dics/prime3.dic
+dics/prime4.dic
+dics/prime5.dic
+dics/prime6.dic
+key/channel_id
+key/token
+script/
+test/
+trash/
